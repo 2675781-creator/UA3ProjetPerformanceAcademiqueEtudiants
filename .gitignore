@@ -1,0 +1,28 @@
+# General
+.DS_Store
+*.pyc
+__pycache__/
+*.ipynb_checkpoints
+
+# Python Virtual Environment
+venv/
+env/
+.env
+
+# Data and Models
+data/
+models/
+results/
+logs/
+*.parquet
+*.pkl
+*.h5
+*.tf
+*.onnx
+
+# IDE and Editor Specific
+.idea/
+.vscode/
+
+# Jupyter/Colab/VS Code Notebooks Output
+*.out
