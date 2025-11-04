@@ -10,8 +10,8 @@ env/
 .env
 
 # Data and Models
-data/
-models/
+# data/
+# models/
 results/
 logs/
 *.parquet
